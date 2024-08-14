@@ -13,4 +13,5 @@ In this task, you will create the visuals around four of the questions that the 
 
 ### Task3: 
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+### Dashboard
 <img width="1708" alt="Screenshot 2024-08-14 at 22 02 41" src="https://github.com/user-attachments/assets/7324b6c6-53c4-4c1f-b88f-e3d77169c528">
